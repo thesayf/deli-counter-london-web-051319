@@ -13,7 +13,6 @@ def line(line)
           
           new_line.push("#{number}.#{name}")
           number+=1
-
   end
   end
 
